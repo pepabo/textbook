@@ -58,7 +58,7 @@ Headers:
 
 {
   "user": {
-    "id": 1
+    "id": 1,
     "name": "Example User",
     "icon_url": "https://secure.gravatar.com/avatar/xxxxxxxxxxxxxxxxxxx",
     "microposts": [
@@ -85,7 +85,7 @@ Params:
 
 {
   "user": {
-    "id": 1
+    "id": 1,
     "name": "Example User",
     "icon_url": "https://secure.gravatar.com/avatar/xxxxxxxxxxxxxxxxxxx",
   },
